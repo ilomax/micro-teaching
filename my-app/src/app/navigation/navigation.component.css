@@ -1,0 +1,419 @@
+.mediaViewInfo {
+	--web-view-name: Main menu - Logged in;
+	--web-view-id: Main_menu___Logged_in;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Main_menu___Logged_in;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Main_menu___Logged_in {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Main menu - Logged in;
+	--web-view-id: Main_menu___Logged_in;
+	--web-enable-deep-linking: true;
+}
+#Footer {
+	position: absolute;
+	width: 1920px;
+	height: 150px;
+	left: 0px;
+	top: 930px;
+	overflow: visible;
+}
+.Footer_A2_Rectangle_1 {
+	filter: drop-shadow(0px -3px 0px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 153px;
+	left: 0px;
+	top: 0px;
+}
+#_Lexilu_2019 {
+	position: absolute;
+	left: 1780px;
+	top: 119px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+.logo_wide {
+	position: absolute;
+	overflow: visible;
+	width: 206.742px;
+	height: 50px;
+	left: 853px;
+	top: 21px;
+}
+#Privacy_statement {
+	position: absolute;
+	left: 802px;
+	top: 108px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+#Cookies___terms_of_use {
+	position: absolute;
+	left: 547px;
+	top: 108px;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+#About_us {
+	position: absolute;
+	left: 1008px;
+	top: 108px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+#Report_an_issue___Get_help {
+	position: absolute;
+	left: 1132px;
+	top: 108px;
+	overflow: visible;
+	width: 230px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 500px;
+	height: 1px;
+	left: 706.5px;
+	top: 87.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Header__logged_in_ {
+	position: absolute;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.background {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 118px;
+	left: 0px;
+	top: 0px;
+}
+#links {
+	position: absolute;
+	width: 411px;
+	height: 20px;
+	left: 1410px;
+	top: 43px;
+	overflow: visible;
+}
+#My_account {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#About_Us {
+	position: absolute;
+	left: 232px;
+	top: 0px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Insights {
+	position: absolute;
+	left: 133px;
+	top: 0px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Log_out {
+	position: absolute;
+	left: 344px;
+	top: 0px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.lang_en {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 17px;
+	left: 1855px;
+	top: 42px;
+}
+.logo_wide_A2_Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 207.273px;
+	height: 50px;
+	left: 50px;
+	top: 25px;
+}
+#Body {
+	position: absolute;
+	width: 990px;
+	height: 686px;
+	left: 465px;
+	top: 134px;
+	overflow: visible;
+}
+#Menu {
+	position: absolute;
+	width: 990px;
+	height: 686px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Welcome_back__Emmanuel__ {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 787px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Prompt;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(112,112,112,1);
+}
+#Your_journey {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	left: 0px;
+	top: 124px;
+	overflow: visible;
+}
+.journey_background {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 268px;
+	left: 0px;
+	top: 0px;
+}
+#Your_journey_A2_Text_11 {
+	position: absolute;
+	left: 34px;
+	top: 197px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(152,152,152,1);
+}
+.journey_icon {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 128px;
+	left: 61px;
+	top: 20px;
+}
+#Rate_agencies {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	left: 370px;
+	top: 124px;
+	overflow: visible;
+}
+.rating_background {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 268px;
+	left: 0px;
+	top: 0px;
+}
+#Rate_agencies_A2_Text_12 {
+	position: absolute;
+	left: 27px;
+	top: 197px;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(152,152,152,1);
+}
+.rating_icon {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 128px;
+	left: 61px;
+	top: 20px;
+}
+#Forum {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	left: 740px;
+	top: 124px;
+	overflow: visible;
+}
+.Forum_background {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 268px;
+	left: 0px;
+	top: 0px;
+}
+#Forum_A2_Text_13 {
+	position: absolute;
+	left: 79px;
+	top: 197px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(152,152,152,1);
+}
+.forum_icon {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 128px;
+	left: 61px;
+	top: 20px;
+}
+#Not_sure_what_to_do_ {
+	position: absolute;
+	left: 257px;
+	top: 440px;
+	overflow: visible;
+	width: 477px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Prompt;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 54px;
+	color: rgba(112,112,112,1);
+}
+#Take_a_tour {
+	position: absolute;
+	width: 500px;
+	height: 125px;
+	left: 257px;
+	top: 561px;
+	overflow: visible;
+}
+.tour_background {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 518px;
+	height: 143px;
+	left: 0px;
+	top: 0px;
+}
+#Take_a_tour_A2_Text_15 {
+	position: absolute;
+	left: 124px;
+	top: 27px;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Prompt;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}

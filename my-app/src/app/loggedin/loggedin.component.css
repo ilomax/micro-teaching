@@ -1,0 +1,227 @@
+.mediaViewInfo {
+	--web-view-name: Footer/Header - Logged in;
+	--web-view-id: Footer_Header___Logged_in;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Footer_Header___Logged_in;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Footer_Header___Logged_in {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Footer/Header - Logged in;
+	--web-view-id: Footer_Header___Logged_in;
+	--web-enable-deep-linking: true;
+}
+#Header__logged_in_ {
+	position: absolute;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.background {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 118px;
+	left: 0px;
+	top: 0px;
+}
+#links {
+	position: absolute;
+	width: 411px;
+	height: 20px;
+	left: 1410px;
+	top: 43px;
+	overflow: visible;
+}
+#My_account {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#About_Us {
+	position: absolute;
+	left: 232px;
+	top: 0px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Insights {
+	position: absolute;
+	left: 133px;
+	top: 0px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Log_out {
+	position: absolute;
+	left: 344px;
+	top: 0px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.lang_en {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 17px;
+	left: 1855px;
+	top: 42px;
+}
+.logo_wide {
+	position: absolute;
+	overflow: visible;
+	width: 207.273px;
+	height: 50px;
+	left: 50px;
+	top: 25px;
+}
+#Footer {
+	position: absolute;
+	width: 1920px;
+	height: 150px;
+	left: 0px;
+	top: 930px;
+	overflow: visible;
+}
+.Footer_A1_Rectangle_6 {
+	filter: drop-shadow(0px -3px 0px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 153px;
+	left: 0px;
+	top: 0px;
+}
+#_Lexilu_2019 {
+	position: absolute;
+	left: 1780px;
+	top: 119px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+.logo_wide_A1_Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 206.742px;
+	height: 50px;
+	left: 853px;
+	top: 21px;
+}
+#Privacy_statement {
+	position: absolute;
+	left: 802px;
+	top: 108px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+#Cookies___terms_of_use {
+	position: absolute;
+	left: 547px;
+	top: 108px;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+#About_us {
+	position: absolute;
+	left: 1008px;
+	top: 108px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+#Report_an_issue___Get_help {
+	position: absolute;
+	left: 1132px;
+	top: 108px;
+	overflow: visible;
+	width: 230px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(200,200,200,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 500px;
+	height: 1px;
+	left: 706.5px;
+	top: 87.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
